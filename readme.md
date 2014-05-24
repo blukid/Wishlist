@@ -6,8 +6,10 @@ The Tangled Web: A Guide to Securing Modern Web Applications
 Exploding the Phone: The Untold Story of the Teenagers and Outlaws who Hacked Ma Bell
 Underground
 
-
 inside network perimeter security
 firewall fundamentals
 the practice of network security monitoring
 practical malware analysis hands on guide
+
+the glitch mob cds (any)
+blackmill cds (any)
