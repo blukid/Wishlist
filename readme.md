@@ -1,4 +1,4 @@
-red team field manual
+[red team field manual](http://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/)
 The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
 The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws
 Hacking: The Art of Exploitation, 2nd Edition
