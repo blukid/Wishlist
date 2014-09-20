@@ -18,6 +18,7 @@ DON'T BUY THESE YET, STILL DECIDING
 [AWUS051NH](http://www.amazon.com/AWUS051NH-802-11b-802-11a-802-11g-Wireless/dp/B003YD9PRE)
 [AWUS036NHA](http://www.amazon.com/Alfa-AWUS036NHA-High-Wireless-Adaptor/dp/B004YD7UBQ/ref=cm_cr_pr_product_top?ie=UTF8)
 [AWUS036NH](http://www.amazon.com/AWUS051NH-802-11b-802-11a-802-11g-Wireless/dp/B003YD9PRE)
+
 -----------------------------------
 
 The Glitch Mob CDs (any)
