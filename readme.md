@@ -12,6 +12,8 @@
 
 [Hardware Hacking: Have Fun while Voiding your Warranty](http://www.amazon.com/Hardware-Hacking-while-Voiding-Warranty-ebook/dp/B001UN2WDY/)
 
+[Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](http://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/)
+
 DON'T BUY THESE YET, STILL DECIDING
 -----------------------------------
 [AWUS051NH](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
@@ -23,7 +25,7 @@ DON'T BUY THESE YET, STILL DECIDING
 
 The Glitch Mob CDs (any)
 
-Blackmill CDs (any)
+Angels & Airwaves CDs (any)
 
 GIFT CARDS:
 
