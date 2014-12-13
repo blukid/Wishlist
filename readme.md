@@ -16,7 +16,9 @@
 
 [Web App Hackers Handbook](http://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
 
-[AWUS051NH](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
+[AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
+
+[Yamaha Sustain Pedal](http://www.amazon.com/Yamaha-FC4-Piano-Style-Sustain/dp/B0002F52EW/)
 
 Cologne
 
