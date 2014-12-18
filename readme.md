@@ -24,6 +24,10 @@ Cologne
 
 Tablet Case/Protector (Tablet is 7 inch, Nexus 7 2013)
 
+Keychain multitool
+
+Subscription to Linux Format, Make magazine, or similar magazines
+
 The Glitch Mob CDs (any)
 
 Angels & Airwaves CDs (any)
