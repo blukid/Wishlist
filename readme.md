@@ -1,7 +1,3 @@
-[The Hacker Playbook](http://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B00J5S9OPU/)
-
-[Hacking: The Art of Exploitation, 2nd Edition](http://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441/)
-
 [Metasploit: The Penetration Tester's Guide](http://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy-ebook/dp/B005EI84KQ/)
 
 [VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)
@@ -22,19 +18,13 @@
 
 Cologne
 
-Tablet Case/Protector (Tablet is 7 inch, Nexus 7 2013)
-
 Keychain multitool
 
 Subscription to Linux Format, Make magazine, or similar magazines
 
-The Glitch Mob CDs (any)
-
 Angels & Airwaves CDs (any)
 
 GIFT CARDS:
-
-Barnes & Noble
 
 Amazon
 
