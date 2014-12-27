@@ -4,8 +4,6 @@
 
 [Retro Gaming Hacks](http://www.amazon.com/Retro-Gaming-Hacks-Playing-Classics-ebook/dp/B004LRPB84/)
 
-[Hacking Electronics: An Illustrated DIY Guide for Makers and Hobbyists](http://www.amazon.com/Hacking-Electronics-Illustrated-Makers-Hobbyists-ebook/dp/B00BPO76XE/)
-
 [Hardware Hacking: Have Fun while Voiding your Warranty](http://www.amazon.com/Hardware-Hacking-while-Voiding-Warranty-ebook/dp/B001UN2WDY/)
 
 [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](http://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/)
