@@ -12,6 +12,10 @@
 
 [Yamaha Sustain Pedal](http://www.amazon.com/Yamaha-FC4-Piano-Style-Sustain/dp/B0002F52EW/)
 
+Dremel
+
+IR Thermometer
+
 Cologne
 
 Keychain multitool
