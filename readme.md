@@ -4,10 +4,6 @@
 
 [Retro Gaming Hacks](http://www.amazon.com/Retro-Gaming-Hacks-Playing-Classics-ebook/dp/B004LRPB84/)
 
-[Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](http://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033/)
-
-[Web App Hackers Handbook](http://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
-
 [AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
 
 [Yamaha Sustain Pedal](http://www.amazon.com/Yamaha-FC4-Piano-Style-Sustain/dp/B0002F52EW/)
