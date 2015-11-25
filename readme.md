@@ -12,9 +12,11 @@
 
 [Yamaha Sustain Pedal](http://www.amazon.com/Yamaha-FC4-Piano-Style-Sustain/dp/B0002F52EW/)
 
-Dremel
+The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
-IR Thermometer
+Dremel (prefer wired)
+
+Paper shredder
 
 Cologne
 
