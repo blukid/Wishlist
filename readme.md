@@ -8,15 +8,11 @@
 
 [AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
 
-[Yamaha Sustain Pedal](http://www.amazon.com/Yamaha-FC4-Piano-Style-Sustain/dp/B0002F52EW/)
-
 Raspberry Pi 2 B
 
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Dremel (prefer wired)
-
-Paper shredder
 
 Cologne
 
