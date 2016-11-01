@@ -8,7 +8,9 @@
 
 [AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48)
 
-Raspberry Pi 2 B
+[RTL-SDR](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/)
+
+Raspberry Pi 3 Model B
 
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
