@@ -14,6 +14,12 @@
 
 [TTL Cable](https://www.adafruit.com/product/954)
 
+[The Food Lab: Better Home Cooking Through Science](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087/)
+
+[The Science of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982/)
+
+[Cooking for Geeks: Real Science, Great Cooks, and Good Food](https://www.amazon.com/Cooking-Geeks-Science-Great-Cooks/dp/1491928050/)
+
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Cologne
