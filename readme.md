@@ -20,6 +20,14 @@
 
 [Cooking for Geeks: Real Science, Great Cooks, and Good Food](https://www.amazon.com/Cooking-Geeks-Science-Great-Cooks/dp/1491928050/)
 
+[The America's Test Kitchen Cooking School Cookbook: Everything You Need to Know to Become a Great Cook](https://www.amazon.com/Americas-Kitchen-Cooking-School-Cookbook/dp/1936493527/)
+
+[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)
+
+[Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
+
+[JapanBargain S-1761, Japanese Sushi Press Nigiri Rice Mold Maker, Triangle White](https://www.amazon.com/JapanBargain-Sushi-Press-Nigiri-Triangle/dp/B0033SMEDC)
+
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Cologne
