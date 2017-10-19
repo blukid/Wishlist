@@ -8,7 +8,7 @@
 
 [RTL-SDR](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/)
 
-[Arduino Components Kit](https://www.amazon.com/dp/B00JUW71QK/)
+[Arduino Kit](https://www.amazon.com/Arduino-Ultimate-Starter-Circuit-Learning/dp/B00BT0NDB8)
 
 [Bus Pirate](https://www.sparkfun.com/products/12942)
 
