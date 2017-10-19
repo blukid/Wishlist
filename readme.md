@@ -28,6 +28,8 @@
 
 [JapanBargain S-1761, Japanese Sushi Press Nigiri Rice Mold Maker, Triangle White](https://www.amazon.com/JapanBargain-Sushi-Press-Nigiri-Triangle/dp/B0033SMEDC)
 
+A Cajun style cookbook
+
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Cologne
