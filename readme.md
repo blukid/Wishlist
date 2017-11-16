@@ -1,3 +1,5 @@
+Slim front pocket wallet
+
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 [Final Fantasy Guitar Collection](http://www.amazon.com/Final-Fantasy-Guitar-Solo-Collection/dp/4285132869/)
