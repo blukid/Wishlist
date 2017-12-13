@@ -2,6 +2,8 @@ Slim front pocket wallet
 
 Electric bass guitar case/gig bag
 
+Any type of new hard cider (I've had Angry Orchard, Strongbow, Smith & Forge)
+
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 [Final Fantasy Guitar Collection](http://www.amazon.com/Final-Fantasy-Guitar-Solo-Collection/dp/4285132869/)
