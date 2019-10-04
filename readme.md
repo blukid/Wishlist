@@ -1,7 +1,3 @@
-Slim front pocket wallet
-
-Electric bass guitar case/gig bag
-
 Any type of new hard cider (I've had Angry Orchard, Strongbow, Smith & Forge)
 
 [RFID breakout board](http://www.adafruit.com/product/364)
@@ -32,19 +28,41 @@ Any type of new hard cider (I've had Angry Orchard, Strongbow, Smith & Forge)
 
 [Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
 
-[JapanBargain S-1761, Japanese Sushi Press Nigiri Rice Mold Maker, Triangle White](https://www.amazon.com/JapanBargain-Sushi-Press-Nigiri-Triangle/dp/B0033SMEDC)
-
 A Cajun style cookbook
 
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Cologne
 
-Subscription to Linux Format, Make magazine, or similar magazines
+### Hak5:
 
-Angels & Airwaves CDs (any)
+Shark Jack
 
-GIFT CARDS:
+Bash Bunny
+
+Rubber Ducky
+
+LAN Turtle
+
+Packet Squirrel
+
+WiFi Pineapple Nano Tactical
+
+### MTG:
+
+Nightpack Ambusher
+
+Wicked Wolf
+
+Questing Beast
+
+The Great Henge
+
+Castle Garenbrig
+
+Fabled Passage
+
+### GIFT CARDS:
 
 Amazon
 
