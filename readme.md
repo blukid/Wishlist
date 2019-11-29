@@ -1,5 +1,3 @@
-Any type of new hard cider (I've had Angry Orchard, Strongbow, Smith & Forge)
-
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 [Final Fantasy Guitar Collection](http://www.amazon.com/Final-Fantasy-Guitar-Solo-Collection/dp/4285132869/)
@@ -9,8 +7,6 @@ Any type of new hard cider (I've had Angry Orchard, Strongbow, Smith & Forge)
 [AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48/)
 
 [RTL-SDR](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/)
-
-[Arduino Kit](https://www.amazon.com/Arduino-Ultimate-Starter-Circuit-Learning/dp/B00BT0NDB8)
 
 [Bus Pirate](https://www.sparkfun.com/products/12942)
 
@@ -39,8 +35,6 @@ Cologne
 Shark Jack
 
 Bash Bunny
-
-Rubber Ducky
 
 LAN Turtle
 
