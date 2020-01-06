@@ -46,17 +46,61 @@ WiFi Pineapple Nano Tactical
 
 Nightpack Ambusher
 
-Wicked Wolf
-
 Questing Beast
-
-The Great Henge
 
 Castle Garenbrig
 
 Fabled Passage
 
 Doubling Season
+
+Howlgeist
+
+Pack Guardian
+
+Wolfir Silverheart
+
+Master of the Hunt
+
+Feed the Pack
+
+Sword of Body and Mind
+
+Wilt-Leaf Liege
+
+Mirari's Wake
+
+Lace with Moonglove
+
+Nightshade Peddler
+
+Bower Passage
+
+Dense Canopy
+
+Karametra, God of Harvests
+
+Temur Sabertooth
+
+Path to Exile
+
+Swords to Plowshares
+
+Teferi's Protection
+
+Lifecrafter's Bestiary
+
+Command Tower
+
+Skalla Wolf
+
+Panharmonicon
+
+Archangel of Thune
+
+Dawn of Hope
+
+Cradle of Vitality
 
 ### GIFT CARDS:
 
