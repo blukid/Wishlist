@@ -72,8 +72,6 @@ Mirari's Wake
 
 Lace with Moonglove
 
-Nightshade Peddler
-
 Bower Passage
 
 Dense Canopy
@@ -101,6 +99,48 @@ Archangel of Thune
 Dawn of Hope
 
 Cradle of Vitality
+
+Ajani's Pridemate
+
+Felidar Sovereign
+
+Angelic Accord
+
+Primal Forcemage
+
+Eldrazi Displacer
+
+Eternal Witness
+
+Watchwolf
+
+Wolf-Skull Shaman
+
+Eerie Interlude
+
+Enlightened Tutor
+
+Eldritch Evolution
+
+Finale of Devastation
+
+Anointed Procession
+
+Aura Shards
+
+Elemental Bond
+
+Cloudstone Curio
+
+Paradox Engine
+
+Beast Whisperer
+
+Serra Ascendant
+
+Norn's Annex
+
+
 
 ### GIFT CARDS:
 
