@@ -140,7 +140,17 @@ Serra Ascendant
 
 Norn's Annex
 
+Huatli, Radiant Champion
 
+Conjurer's Closet
+
+Well of Lost Dreams
+
+Craterhoof Behemoth
+
+Eiganjo Castle
+
+Krosan Verge
 
 ### GIFT CARDS:
 
