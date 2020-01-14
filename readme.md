@@ -24,6 +24,8 @@
 
 [Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
 
+[Wifi keylogger](https://maltronics.com/collections/wifi-keyloggers/products/wifi-keylogger)
+
 A Cajun style cookbook
 
 The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
