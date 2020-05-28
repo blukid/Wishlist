@@ -66,6 +66,8 @@ LAN Turtle
 
 Packet Squirrel
 
+Key Croc
+
 WiFi Pineapple Nano Tactical
 
 <!--### MTG:-->
