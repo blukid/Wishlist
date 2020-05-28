@@ -4,9 +4,9 @@
 
 [VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)
 
-[AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48/)
+<!--[AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48/)-->
 
-[RTL-SDR](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/)
+<!--[RTL-SDR](https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/)-->
 
 [Bus Pirate](https://www.sparkfun.com/products/12942)
 
@@ -32,6 +32,30 @@ The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
 
 Cologne
 
+Grill mitts
+
+Grill skewers
+
+Grilling thermometer (works while lid on)
+
+Camping tent
+
+Camping cookware
+
+God of War for PS4
+
+Octopath Traveler for Nintendo Switch
+
+Wired haircut kit (not battery)
+
+### Homebrew:
+
+Bottling wand
+
+5 gallon fermenter
+
+Cider yeast
+
 ### Hak5:
 
 Shark Jack
@@ -44,115 +68,61 @@ Packet Squirrel
 
 WiFi Pineapple Nano Tactical
 
-### MTG:
-
-Nightpack Ambusher
-
-Questing Beast
-
-Castle Garenbrig
-
-Fabled Passage
-
-Doubling Season
-
-Howlgeist
-
-Pack Guardian
-
-Wolfir Silverheart
-
-Master of the Hunt
-
-Feed the Pack
-
-Sword of Body and Mind
-
-Wilt-Leaf Liege
-
-Mirari's Wake
-
-Lace with Moonglove
-
-Bower Passage
-
-Dense Canopy
-
-Karametra, God of Harvests
-
-Temur Sabertooth
-
-Path to Exile
-
-Swords to Plowshares
-
-Teferi's Protection
-
-Lifecrafter's Bestiary
-
-Command Tower
-
-Skalla Wolf
-
-Panharmonicon
-
-Archangel of Thune
-
-Dawn of Hope
-
-Cradle of Vitality
-
-Ajani's Pridemate
-
-Felidar Sovereign
-
-Angelic Accord
-
-Primal Forcemage
-
-Eldrazi Displacer
-
-Eternal Witness
-
-Watchwolf
-
-Wolf-Skull Shaman
-
-Eerie Interlude
-
-Enlightened Tutor
-
-Eldritch Evolution
-
-Finale of Devastation
-
-Anointed Procession
-
-Aura Shards
-
-Elemental Bond
-
-Cloudstone Curio
-
-Paradox Engine
-
-Beast Whisperer
-
-Serra Ascendant
-
-Norn's Annex
-
-Huatli, Radiant Champion
-
-Conjurer's Closet
-
-Well of Lost Dreams
-
-Craterhoof Behemoth
-
-Eiganjo Castle
-
-Krosan Verge
+<!--### MTG:-->
+<!--Nightpack Ambusher-->
+<!--Questing Beast-->
+<!--Castle Garenbrig-->
+<!--Fabled Passage-->
+<!--Doubling Season-->
+<!--Howlgeist-->
+<!--Pack Guardian-->
+<!--Wolfir Silverheart-->
+<!--Master of the Hunt-->
+<!--Feed the Pack-->
+<!--Sword of Body and Mind-->
+<!--Wilt-Leaf Liege-->
+<!--Mirari's Wake-->
+<!--Lace with Moonglove-->
+<!--Bower Passage-->
+<!--Dense Canopy-->
+<!--Karametra, God of Harvests-->
+<!--Temur Sabertooth-->
+<!--Path to Exile-->
+<!--Swords to Plowshares-->
+<!--Teferi's Protection-->
+<!--Lifecrafter's Bestiary-->
+<!--Command Tower-->
+<!--Skalla Wolf-->
+<!--Panharmonicon-->
+<!--Archangel of Thune-->
+<!--Dawn of Hope-->
+<!--Cradle of Vitality-->
+<!--Ajani's Pridemate-->
+<!--Felidar Sovereign-->
+<!--Angelic Accord-->
+<!--Primal Forcemage-->
+<!--Eldrazi Displacer-->
+<!--Eternal Witness-->
+<!--Watchwolf-->
+<!--Wolf-Skull Shaman-->
+<!--Eerie Interlude-->
+<!--Enlightened Tutor-->
+<!--Eldritch Evolution-->
+<!--Finale of Devastation-->
+<!--Anointed Procession-->
+<!--Aura Shards-->
+<!--Elemental Bond-->
+<!--Cloudstone Curio-->
+<!--Paradox Engine-->
+<!--Beast Whisperer-->
+<!--Serra Ascendant-->
+<!--Norn's Annex-->
+<!--Huatli, Radiant Champion-->
+<!--Conjurer's Closet-->
+<!--Well of Lost Dreams-->
+<!--Craterhoof Behemoth-->
+<!--Eiganjo Castle-->
+<!--Krosan Verge-->
 
 ### GIFT CARDS:
 
