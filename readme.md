@@ -1,7 +1,5 @@
 [RFID breakout board](http://www.adafruit.com/product/364)
 
-[Final Fantasy Guitar Collection](http://www.amazon.com/Final-Fantasy-Guitar-Solo-Collection/dp/4285132869/)
-
 [VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)
 
 <!--[AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48/)-->
@@ -34,10 +32,6 @@ Cologne
 
 Grill mitts
 
-Grill skewers
-
-Grilling thermometer (works while lid on)
-
 Camping tent
 
 Camping cookware
@@ -45,8 +39,6 @@ Camping cookware
 God of War for PS4
 
 Octopath Traveler for Nintendo Switch
-
-Wired haircut kit (not battery)
 
 ### Homebrew:
 
