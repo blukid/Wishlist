@@ -42,7 +42,9 @@ Octopath Traveler for Nintendo Switch
 
 Sunset Overdrive for PC
 
-Raspberry Pi Zero camera kit
+[Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
+
+[Raspberry Pi Zero W camera](https://www.amazon.com/Camera-Arducam-Raspberry-Raspbian-MotionEye/dp/B01LY05LOE/)
 
 ### Homebrew:
 
