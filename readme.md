@@ -8,7 +8,7 @@
 
 [Bus Pirate](https://www.sparkfun.com/products/12942)
 
-[TTL Cable](https://www.adafruit.com/product/954)
+<!--[TTL Cable](https://www.adafruit.com/product/954)-->
 
 [The Food Lab: Better Home Cooking Through Science](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087/)
 
@@ -39,6 +39,10 @@ Camping cookware
 God of War for PS4
 
 Octopath Traveler for Nintendo Switch
+
+Sunset Overdrive for PC
+
+Raspberry Pi Zero camera kit
 
 ### Homebrew:
 
