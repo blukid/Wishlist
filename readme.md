@@ -1,3 +1,5 @@
+[Genki 1 Workbook paperback] (https://www.amazon.com/dp/478901441X/)
+
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 <!--[VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)-->
