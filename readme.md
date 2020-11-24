@@ -1,6 +1,6 @@
 [RFID breakout board](http://www.adafruit.com/product/364)
 
-[VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)
+<!--[VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)-->
 
 <!--[AWUS051NH Wireless Adapter](http://www.amazon.com/Alfa-AWUS051NH-802-11a-Wireless-9dBi/dp/B003YH1X48/)-->
 
@@ -18,7 +18,7 @@
 
 [The America's Test Kitchen Cooking School Cookbook: Everything You Need to Know to Become a Great Cook](https://www.amazon.com/Americas-Kitchen-Cooking-School-Cookbook/dp/1936493527/)
 
-[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)
+<!--[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)-->
 
 [Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
 
@@ -26,11 +26,11 @@
 
 A Cajun style cookbook
 
-The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)
+<!--The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)-->
 
-Cologne
+<!--Cologne-->
 
-Grill mitts
+<!--Grill mitts-->
 
 Camping tent
 
@@ -38,9 +38,11 @@ Camping cookware
 
 God of War for PS4
 
+Spider-Man: Miles Morales for PS4
+
 Octopath Traveler for Nintendo Switch
 
-Sunset Overdrive for PC
+Sunset Overdrive on Steam
 
 [Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
 
@@ -54,7 +56,7 @@ Bottling wand
 
 Cider yeast
 
-### Hak5:
+### Hak5 https://shop.hak5.org/:
 
 Shark Jack
 
