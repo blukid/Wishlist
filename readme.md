@@ -1,5 +1,3 @@
-[Genki 1 Workbook paperback] (https://www.amazon.com/dp/478901441X/)
-
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 <!--[VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)-->
@@ -14,11 +12,11 @@
 
 [The Food Lab: Better Home Cooking Through Science](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087/)
 
+[The America's Test Kitchen Cooking School Cookbook: Everything You Need to Know to Become a Great Cook](https://www.amazon.com/Americas-Kitchen-Cooking-School-Cookbook/dp/1936493527/)
+
 [The Science of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982/)
 
 [Cooking for Geeks: Real Science, Great Cooks, and Good Food](https://www.amazon.com/Cooking-Geeks-Science-Great-Cooks/dp/1491928050/)
-
-[The America's Test Kitchen Cooking School Cookbook: Everything You Need to Know to Become a Great Cook](https://www.amazon.com/Americas-Kitchen-Cooking-School-Cookbook/dp/1936493527/)
 
 <!--[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)-->
 
@@ -34,15 +32,7 @@ A Cajun style cookbook
 
 <!--Grill mitts-->
 
-Camping tent
-
 Camping cookware
-
-God of War for PS4
-
-Spider-Man: Miles Morales for PS4
-
-Octopath Traveler for Nintendo Switch
 
 Sunset Overdrive on Steam
 
