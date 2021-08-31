@@ -1,3 +1,5 @@
+[HackTheBox shirt](https://hackthebox.store/products/hack-the-box-new-logo-t-shirt?variant=36273749754014)
+
 [RFID breakout board](http://www.adafruit.com/product/364)
 
 <!--[VoIP Hacks](http://www.amazon.com/VoIP-Hacks-Tools-Internet-Telephony-ebook/dp/B002SR2QJG/)-->
