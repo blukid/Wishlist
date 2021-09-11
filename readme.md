@@ -26,8 +26,6 @@ A Cajun style cookbook
 
 <!--The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)-->
 
-<!--Cologne-->
-
 <!--Grill mitts-->
 
 Camping cookware
@@ -37,6 +35,14 @@ Sunset Overdrive on Steam
 [Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
 
 [Raspberry Pi Zero W camera](https://www.amazon.com/Camera-Arducam-Raspberry-Raspbian-MotionEye/dp/B01LY05LOE/)
+
+### Cologne:
+
+Nautica Aqua Rush
+
+Stetson All American
+
+Inis
 
 ### Homebrew:
 
