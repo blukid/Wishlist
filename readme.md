@@ -1,3 +1,9 @@
+Car tire inflator
+
+[Social Engineering book (physical or ebook)](https://nostarch.com/practical-social-engineering)
+
+[Locksport book (physical or ebook)](https://nostarch.com/locksport)
+
 [HackTheBox shirt](https://hackthebox.store/products/hack-the-box-new-logo-t-shirt?variant=36273749754014)
 
 [RFID breakout board](http://www.adafruit.com/product/364)
