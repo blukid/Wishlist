@@ -1,5 +1,7 @@
 Car tire inflator
 
+[Bug Bounty Bootcamp (physical or ebook)](https://nostarch.com/bug-bounty-bootcamp)
+
 [Social Engineering book (physical or ebook)](https://nostarch.com/practical-social-engineering)
 
 [Locksport book (physical or ebook)](https://nostarch.com/locksport)
@@ -129,6 +131,8 @@ WiFi Pineapple Nano Tactical
 <!--Krosan Verge-->
 
 ### GIFT CARDS:
+
+Panera
 
 Amazon
 
