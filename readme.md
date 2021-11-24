@@ -1,5 +1,7 @@
 Car tire inflator
 
+Pokemon Sword OR Shield
+
 [Bug Bounty Bootcamp (physical or ebook)](https://nostarch.com/bug-bounty-bootcamp)
 
 [Social Engineering book (physical or ebook)](https://nostarch.com/practical-social-engineering)
@@ -35,8 +37,6 @@ A Cajun style cookbook
 <!--The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)-->
 
 <!--Grill mitts-->
-
-Camping cookware
 
 Sunset Overdrive on Steam
 
