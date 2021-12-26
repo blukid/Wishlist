@@ -1,9 +1,3 @@
-Car tire inflator
-
-Pokemon Sword OR Shield
-
-[Bug Bounty Bootcamp (physical or ebook)](https://nostarch.com/bug-bounty-bootcamp)
-
 [Social Engineering book (physical or ebook)](https://nostarch.com/practical-social-engineering)
 
 [Locksport book (physical or ebook)](https://nostarch.com/locksport)
@@ -46,8 +40,6 @@ Sunset Overdrive on Steam
 
 ### Cologne:
 
-Nautica Aqua Rush
-
 Stetson All American
 
 Inis
@@ -62,11 +54,7 @@ Cider yeast
 
 ### Hak5 https://shop.hak5.org/:
 
-Shark Jack
-
 Bash Bunny
-
-LAN Turtle
 
 Packet Squirrel
 
