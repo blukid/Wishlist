@@ -34,6 +34,10 @@ A Cajun style cookbook
 
 Sunset Overdrive on Steam
 
+Fresh Prince of Bel-Air DVD/Blu-Ray box set
+
+Hot Wheels Unleashed for Nintendo Switch?
+
 [Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
 
 [Raspberry Pi Zero W camera](https://www.amazon.com/Camera-Arducam-Raspberry-Raspbian-MotionEye/dp/B01LY05LOE/)
