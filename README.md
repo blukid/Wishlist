@@ -24,19 +24,15 @@
 
 [Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
 
-[Wifi keylogger](https://maltronics.com/collections/wifi-keyloggers/products/wifi-keylogger)
-
 A Cajun style cookbook
 
 <!--The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)-->
 
 <!--Grill mitts-->
 
-Sunset Overdrive on Steam
+[Sunset Overdrive on Steam](https://store.steampowered.com/app/847370/Sunset_Overdrive/)
 
-Fresh Prince of Bel-Air DVD/Blu-Ray box set
-
-Hot Wheels Unleashed for Nintendo Switch?
+[Fresh Prince of Bel-Air DVD complete set](https://www.amazon.com/Fresh-Prince-Bel-Air-Complete-Various/dp/B06ZXSK6BF/)
 
 [Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
 
