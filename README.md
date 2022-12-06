@@ -16,6 +16,8 @@
 
 <!--[TTL Cable](https://www.adafruit.com/product/954)-->
 
+[Salt Fat Acid Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830/)
+
 [The Food Lab: Better Home Cooking Through Science](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087/)
 
 [Cooking for Geeks: Real Science, Great Cooks, and Good Food](https://www.amazon.com/Cooking-Geeks-Science-Great-Cooks/dp/1491928050/)
