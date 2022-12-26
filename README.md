@@ -18,10 +18,6 @@
 
 [Salt Fat Acid Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830/)
 
-[The Food Lab: Better Home Cooking Through Science](https://www.amazon.com/Food-Lab-Cooking-Through-Science/dp/0393081087/)
-
-[Cooking for Geeks: Real Science, Great Cooks, and Good Food](https://www.amazon.com/Cooking-Geeks-Science-Great-Cooks/dp/1491928050/)
-
 <!--[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)-->
 
 [Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
@@ -33,8 +29,6 @@ A Cajun style cookbook
 <!--Grill mitts-->
 
 [Sunset Overdrive on Steam](https://store.steampowered.com/app/847370/Sunset_Overdrive/)
-
-[Fresh Prince of Bel-Air DVD complete set](https://www.amazon.com/Fresh-Prince-Bel-Air-Complete-Various/dp/B06ZXSK6BF/)
 
 [Raspberry Pi Zero W kit](https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/)
 
