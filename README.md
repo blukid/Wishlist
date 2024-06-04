@@ -1,5 +1,7 @@
 [FF9 print](https://www.lucidsky.co/products/ffix)
 
+[Corsair gaming mouse](https://www.amazon.com/Corsair-Scimitar-Gaming-Backlit-Optical/dp/B082LRMY53)
+
 [Social Engineering book (physical or ebook)](https://nostarch.com/practical-social-engineering)
 
 [Locksport book (physical or ebook)](https://nostarch.com/locksport)
