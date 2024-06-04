@@ -6,7 +6,7 @@
 
 [Locksport book (physical or ebook)](https://nostarch.com/locksport)
 
-[HackTheBox shirt](https://hackthebox.store/products/hack-the-box-new-logo-t-shirt?variant=36273749754014)
+[HackTheBox shirt](https://hackthebox.store/products/hack-the-box-new-logo-t-shirt?variant=36273749786782)
 
 [RFID breakout board](http://www.adafruit.com/product/364)
 
@@ -20,13 +20,13 @@
 
 <!--[TTL Cable](https://www.adafruit.com/product/954)-->
 
-[Salt Fat Acid Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830/)
+<!--[Salt Fat Acid Heat](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830/)-->
 
 <!--[The Flavor Bible: The Essential Guide to Culinary Creativity, Based on the Wisdom of America's Most Imaginative Chefs](https://www.amazon.com/Flavor-Bible-Essential-Creativity-Imaginative/dp/0316118400/)-->
 
-[Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
+<!--[Japanese Soul Cooking: Ramen, Tonkatsu, Tempura, and More from the Streets and Kitchens of Tokyo and Beyond](https://www.amazon.com/Japanese-Soul-Cooking-Tonkatsu-Kitchens/dp/1607743523/)
 
-A Cajun style cookbook
+A Cajun style cookbook-->
 
 <!--The Best of Make: (volume 1 or 2, paperback or Kindle edition is fine)-->
 
@@ -44,13 +44,13 @@ Stetson All American
 
 Inis
 
-### Homebrew:
+<!--### Homebrew:
 
 Bottling wand
 
 5 gallon fermenter
 
-Cider yeast
+Cider yeast-->
 
 ### Hak5 https://shop.hak5.org/:
 
